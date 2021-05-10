@@ -1,3 +1,3 @@
 👋 Welcome
 
-https://shadeboy.me
+https://shadboy.me
