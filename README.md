@@ -1,7 +1,7 @@
-### 👋 Welcome
+### Hi! 👋 Welcome.
 
 https://shadboy.me
 
-### Check my other website
+### Check my other website?
 
 
