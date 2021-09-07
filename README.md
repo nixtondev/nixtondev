@@ -1,5 +1,5 @@
 ### Hi! 👋 Welcome - The home of a hacker nerd.
-<hr>
+<hr style="color:#CCC;">
 https://shadboy.me
 
 ### Donate what you feel for.
