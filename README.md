@@ -1,8 +1,8 @@
-### Hi! 👋 Welcome.
+### Hi! 👋 Welcome - The home of a hacker nerd.
 ___________________________________________________________________________________________________________________________________________________________________________________
 https://shadboy.me
 
-### Check my other website?
+### Donate what you feel for.
 
 ![cardheart](https://user-images.githubusercontent.com/83667327/132292858-f509f4df-3a23-4c9b-ba3f-75a6959b2c15.png) <h3>Please donate to my work?</h3><br>
 BTC: 35bkXjY3GGPi6mxSJcS7VFwAfNpUY9JFrj<br>
