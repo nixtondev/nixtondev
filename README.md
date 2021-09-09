@@ -1,6 +1,6 @@
 ### Hi! 👋 Welcome - The home of a hacker nerd.
 <hr>
-https://shadboy.me
+https://ncovid.nu - COVID-19 Statistics
 
 <h3>Please donate to my work?</h3>
 ### Donate what you feel for.
