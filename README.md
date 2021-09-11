@@ -12,4 +12,5 @@ LTC: MPzkgsRPCbpdWogy4hd1irQQAkwRLCNVZS<br>
 
 Choose an optional figure what you feel to donate.
 
+![logotyp](https://user-images.githubusercontent.com/83667327/132955264-e7e3da10-e1ed-4acf-a543-3013a68586fa.png)
 
