@@ -10,7 +10,7 @@
 https://ncovid.nu - COVID-19 Statistics
 
 ![btc](https://user-images.githubusercontent.com/83667327/152659372-dd16b83b-8c86-4ef7-98e1-992e6455f97f.svg)
-&mdash; nixtondev.com
+&mdash; https://nixtondev.com
 
 ![logotyp](https://user-images.githubusercontent.com/83667327/132955264-e7e3da10-e1ed-4acf-a543-3013a68586fa.png)
 
