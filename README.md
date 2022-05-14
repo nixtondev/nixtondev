@@ -9,6 +9,8 @@
 ![atom](https://user-images.githubusercontent.com/83667327/152659852-99410dda-a721-41c8-9e42-75534df880b7.svg)
 ![vscode](https://user-images.githubusercontent.com/83667327/168444739-190dede5-4bd9-4bdf-8346-d19e609b43e0.svg)
 ![git](https://user-images.githubusercontent.com/83667327/168444893-9daa6a2f-a4a2-42a4-a0ef-c1637ed17b4c.svg)
+![windows](https://user-images.githubusercontent.com/83667327/168445055-42856f8c-d0ba-4d48-a8ac-102ab1da5891.svg)
+
 
 ![btc](https://user-images.githubusercontent.com/83667327/152659372-dd16b83b-8c86-4ef7-98e1-992e6455f97f.svg) &mdash; https://nixtondev.com
 <hr>
