@@ -18,5 +18,3 @@
 <hr>
 
 ![devops](https://user-images.githubusercontent.com/83667327/159172679-1e3713e1-658c-4b42-b72d-0d0aa798ad4f.png)
-
-![c](https://user-images.githubusercontent.com/83667327/184799895-de8a4724-85fc-4a35-8331-ae836e1c9581.gif)
