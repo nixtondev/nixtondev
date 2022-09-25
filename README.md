@@ -1,5 +1,3 @@
-![logotyp](https://user-images.githubusercontent.com/83667327/132955264-e7e3da10-e1ed-4acf-a543-3013a68586fa.png)
-
 ### Hi! 👋 Welcome - The home of a hacker nerd.
 
 ![php](https://user-images.githubusercontent.com/83667327/168445215-8c4f50fb-0ab1-4e36-ad69-c40ad1eb85e1.svg)
