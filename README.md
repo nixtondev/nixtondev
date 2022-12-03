@@ -17,6 +17,4 @@
 ![btc](https://user-images.githubusercontent.com/83667327/152659372-dd16b83b-8c86-4ef7-98e1-992e6455f97f.svg)
 <hr>
 
-![devops](https://user-images.githubusercontent.com/83667327/159172679-1e3713e1-658c-4b42-b72d-0d0aa798ad4f.png)
-
 <h1>The Coder</h1>
