@@ -12,7 +12,4 @@
 ![windows](https://user-images.githubusercontent.com/83667327/168466847-7b34dbc6-7ed6-446f-8308-0a4e686faca5.svg)
 ![coffee](https://user-images.githubusercontent.com/83667327/168467313-f2319351-c032-42a1-9292-f10985adb966.svg)
 
-![btc](https://user-images.githubusercontent.com/83667327/152659372-dd16b83b-8c86-4ef7-98e1-992e6455f97f.svg)
-<hr>
-
 <h1>The Coder</h1>
